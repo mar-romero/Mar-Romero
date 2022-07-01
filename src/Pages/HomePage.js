@@ -49,6 +49,9 @@ const HomePageStyled = styled.header`
         transform: translate(-50%, -50%);
         text-align: center;
         width: 80%;
+        @media screen and (max-width:1200px){
+            margin-top: 10rem;
+          }
 
         .icons{
             display: flex;
