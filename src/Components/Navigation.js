@@ -3,7 +3,8 @@ import styled from 'styled-components';
 import {NavLink} from 'react-router-dom';
 import avatar from '../img/Avatar.jpeg';
 
-function Navigation() {
+function Navigation({setNavToggle,navToggle}) {
+
     return (
         <NavigationStyled>
             <div className="avatar">
@@ -11,19 +12,19 @@ function Navigation() {
             </div>
             <ul className="nav-items">
                 <li className="nav-item">
-                    <NavLink to="/" activeClassName="active-class" exact>Inicio</NavLink>
+                    <NavLink to="/" activeClassName="active-class" onClick={() => setNavToggle(!navToggle)} exact>Inicio</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/about" activeClassName="active-class" exact>Acerca de mí</NavLink>
+                    <NavLink to="/about" activeClassName="active-class"  onClick={() => setNavToggle(!navToggle)} exact>Acerca de mí</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/resume" activeClassName="active-class" exact>Skills</NavLink>
+                    <NavLink to="/resume" activeClassName="active-class" onClick={() => setNavToggle(!navToggle)} exact>Skills</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/portfolios" activeClassName="active-class" exact>Trabajos</NavLink>
+                    <NavLink to="/portfolios" activeClassName="active-class" onClick={() => setNavToggle(!navToggle)} exact>Trabajos</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/contact" activeClassName="active-class" exact>Contacto</NavLink>
+                    <NavLink to="/contact" activeClassName="active-class" onClick={() => setNavToggle(!navToggle)} exact>Contacto</NavLink>
                 </li>
             </ul>
             <footer className="footer">
@@ -32,7 +33,6 @@ function Navigation() {
         </NavigationStyled>
     )
 }
-
 const NavigationStyled = styled.nav`
     display: flex;
     justify-content: space-between;
