@@ -5,7 +5,7 @@ import Title from '../Components/Title';
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import ChatIcon from '@material-ui/icons/Chat';
-
+import Particle from '../Components/Particle';
 import ContactItem from '../Components/ContactItem';
 
 function ContactPage() {
@@ -14,6 +14,9 @@ function ContactPage() {
     const location = <ChatIcon />
     return (
         <MainLayout>
+           <div className="particle-con">
+                <Particle />
+            </div>
             <Title title={'Contacto'} span={'Contacto'} />
             <ContactPageStyled >
                 <InnerLayout className={'contact-section'}>
