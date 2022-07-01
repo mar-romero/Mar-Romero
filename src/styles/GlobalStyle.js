@@ -140,6 +140,10 @@ h6{
     display: flex;
     align-items: center;
     justify-content: center;
+    @media screen and (max-width:1200px){
+        top: 5%;
+        left: 0px;
+      }
     svg{
       display: flex;
       align-items: center;
