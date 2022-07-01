@@ -16,7 +16,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hola, soy <span>Marcelo Romero</span></h1>
                 <p>
-                     me capacito constantemente de forma autodidacta.
+                    Un programador apasionado;me capacito constantemente de forma autodidacta.
                     Poseo experiencia en una gran variedad de lenguajes o frameworks o base de datos, dentro de los cuales están: Node.js, JavaScript, Python, PHP, React, Redux, MySQL, MongoDB, HTML y CSS. Los he utilizado en diferentes proyectos y de forma freelancer.
                     Me considero una persona resolutiva, ya que busco la manera más rápida y eficaz de solucionar problemas. Perseverancia y empeño son características que reflejan mi personalidad; y el detallismo se ve reflejado en mis proyectos.
                     <br /> Deseo trabajar con una empresa, la cual me permita aumentar mis conocimientos, tanto profesionales como personales
