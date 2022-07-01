@@ -4,7 +4,7 @@ import Title from '../Components/Title';
 import portfolios from '../datas/portfolios';
 import Menu from '../Components/Menu';
 import Button from '../Components/Button';
-
+import Particle from '../Components/Particle';
 const allButtons = ['Todos', ...new Set(portfolios.map(item => item.category))]
 
 function PortfoliosPage() {
@@ -23,6 +23,9 @@ function PortfoliosPage() {
     }
     return (
         <MainLayout>
+            <div className="particle-con">
+                <Particle />
+            </div>
             <Title title={'Portfolios'} span={'portfolios'} />
             <InnerLayout>
 
