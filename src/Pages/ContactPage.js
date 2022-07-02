@@ -2,13 +2,13 @@ import React from 'react';
 import styled from 'styled-components';
 import { MainLayout, InnerLayout } from '../styles/Layouts';
 import Title from '../Components/Title';
-import PhoneIcon from '@material-ui/icons/Phone';
+import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 import EmailIcon from '@material-ui/icons/Email';
 import ChatIcon from '@material-ui/icons/Chat';
 import ContactItem from '../Components/ContactItem';
 
 function ContactPage() {
-    const phone = <PhoneIcon />
+    const phone = <WhatsAppIcon />
     const email = <EmailIcon />
     const location = <ChatIcon />
     return (
@@ -17,7 +17,9 @@ function ContactPage() {
             <ContactPageStyled >
                 <InnerLayout className={'contact-section'}>
                     <div className="right-content">
+                         <a href="https://api.whatsapp.com/send/?phone=5491162371236&text&type=phone_number&app_absent=0">
                         <ContactItem title={'Celular'} icon={phone} cont1={'+549-11-6237-1236'} />
+                          </a>
                         <ContactItem title={'Email'} icon={email} cont1={'romero-ar@hotmail.com'}/>
                         <a href="https://linktr.ee/mar_romero">
                         <ContactItem title={'Redes'} icon={location} cont1={'linktr.ee/mar_romero'} />
