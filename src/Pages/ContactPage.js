@@ -17,7 +17,6 @@ function ContactPage() {
             <ContactPageStyled >
                 <InnerLayout className={'contact-section'}>
                     <div className="right-content">
-                         <a href="https://api.whatsapp.com/send/?phone=5491162371236&text&type=phone_number&app_absent=0"></a>
                         <ContactItem title={'Celular'} icon={phone} cont1={'+549-11-6237-1236'} /> 
                         <ContactItem title={'Email'} icon={email} cont1={'romero-ar@hotmail.com'}/>
                         <a href="https://linktr.ee/mar_romero">
