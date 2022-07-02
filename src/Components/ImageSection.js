@@ -25,7 +25,7 @@ function ImageSection() {
                         <p>Oficio: Programador Backend</p>
                     </div>
                 </div>
-                <a href="https://bit.ly/CV-Marcelo_Romero">
+                <a href="https://bit.ly/Marcelo_Romero">
                     <PrimaryButton title={'Curriculum Vitae'} />
                 </a>
             </div>
