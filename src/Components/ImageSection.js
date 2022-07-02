@@ -20,7 +20,7 @@ function ImageSection() {
                     <div className="info-title">
                         <p>Nombre: Marcelo Ezequiel Romero</p>
                         <p>Nacionalidad: Argentino</p>
-                        <p>Idiomas: Español, Ingles</p>
+                        <p>Idiomas: Español e Ingles</p>
                         <p>Ubicación: Buenos Aires, Argentina</p>
                         <p>Oficio: Programador Backend</p>
                     </div>
