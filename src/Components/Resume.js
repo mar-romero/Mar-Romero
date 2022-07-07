@@ -51,7 +51,7 @@ function Resume() {
                         year={'2021 - 2021'} 
                         title={'Desarrollador Python'}
                         subTitle={'UTN - Udemy - Imovee'}
-                        text={'Aprendi los fundamentos de la programación, la programación orientada a objetos como poliformismo, herencia, encapsulamiento y abstraccion, bases de datos SQL, maneje los frameworks más reconocidos en Python: Tkinter Django,Flask'} 
+                        text={'Aprendí los fundamentos de la programación, la programación orientada a objetos como poliformismo, herencia, encapsulamiento y abstraccion, bases de datos SQL, maneje los frameworks más reconocidos en Python: Tkinter Django,Flask'} 
                     />
                 </div>
             </InnerLayout>
