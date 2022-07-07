@@ -12,7 +12,7 @@ function ImageSection() {
             <div className="right-content">
                 <h4>Soy <span>Marcelo Romero</span></h4>
                 <p className="paragraph">
-                    Desde chico siempre me gusto la lógica, resolver problemas y la creación objetos, jugaba mucho con los Legos, gracias a eso hoy en día
+                    Desde chico siempre me gustó la lógica, resolver problemas y la creación objetos, jugaba mucho con los Legos, gracias a eso hoy en día
                     me encuentro estudiando de forma autodidacta programación y encontré una pasión, además de la cocina y el tenis de mesa.
                     Me encanta investigar un tema para poder aplicarlo en mi día a día, ya sea en desarrollando una aplicación o en la vida misma.
                 </p>
