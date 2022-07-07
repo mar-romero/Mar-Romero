@@ -19,7 +19,7 @@ const portfolios = [
         category: 'Fullstack',
         image: inve,
         link1: 'https://boladenieve.herokuapp.com/signin',
-        title: 'Inventarió Bola de nieve',
+        title: 'Inventario Bola de nieve',
         subtitle:'Node, HTML, CSS, MySQL y JWT',
         text: 'Inventario de un petshop en el cual puede mantener en orden gracias a la web su stock, ingreso y egreso de mercadería y diferentes autorizaciones de usuarios.'
     },
@@ -39,7 +39,7 @@ const portfolios = [
         link1: 'https://github.com/mar-romero/Alkemy-Challenger',
         title: 'Challenge Alkemy',
         subtitle:'Node, MySLQ, Sequelize y JWT ',
-        text: 'Desafió de Alkemy para ingresar a su academia, es API para explorar el mundo de Disney, la cual permite conocer y modificar los personajes que lo componen y entender en qué películas estos participaron.'
+        text: 'Desafío de Alkemy para ingresar a su academia, es API para explorar el mundo de Disney, la cual permite conocer y modificar los personajes que lo componen y entender en qué películas estos participaron.'
     },
     {
         id: 5,
