@@ -1,36 +1,81 @@
-# Hi there 👋, I'm Marcelo Romero
+🚀 Marcelo Ezequiel Romero
 
-## 🚀 About Me
-I'm a **Backend Developer** with **4+ years of experience**, specializing in **Node.js, TypeScript, and Python**. I have a strong background in **scalable architectures, serverless, and microservices on AWS**. My passion is optimizing critical processes, automating workflows, and enhancing system performance in industries like **fintech, logistics, and artificial intelligence**.
+💻 Sobre Mí
 
-🔹 **Proven Impact:** Led implementations that reduced response times by **60%** and operational costs by **40%**.  
-🔹 **Expertise:** API design, external service integrations, and clean architecture principles (SOLID, Hexagonal Architecture, Design Patterns).  
-🔹 **AWS & Cloud Computing:** Experience with **AWS Lambda, API Gateway, DynamoDB, RDS, SQS, SNS, Bedrock**, and more.
+Soy un Desarrollador Backend con más de 4 años de experiencia en tecnologías como Node.js, TypeScript y Python. Me especializo en la creación de arquitecturas escalables, serverless y microservicios en AWS, con un fuerte enfoque en la automatización, optimización de procesos y mejora del rendimiento.
 
-## 💼 Experience
-- **Backend Developer | IVCISA | Aug 2024 - Jan 2025**  
-  - Developed serverless AI solutions using AWS Bedrock.
-  - Built real-time monitoring systems with Kafka & AWS MSK.
-- **Backend Developer | DaCodes - DD360 | Aug 2022 - Aug 2024**  
-  - Migrated legacy PHP systems to **Node.js + AWS**.
-  - Built a financial calculation engine reducing processing time from **15 min to 30 sec**.
-- **Freelance Developer | Sep 2021 - Aug 2022**  
-  - Automated manual processes, built inventory systems, and developed market analysis bots.
+Mi experiencia abarca sectores como fintech, logística e inteligencia artificial, donde he liderado la implementación de soluciones que han reducido tiempos de respuesta en un 60% y costos operativos en un 40%.
 
-## 🛠️ Tech Stack
-- **Languages:** Node.js, TypeScript, Python, JavaScript
-- **Frameworks & Libraries:** Express, Next.js, TypeORM, Serverless Framework
-- **Cloud & DevOps:** AWS (Lambda, API Gateway, S3, DynamoDB, RDS, Cognito, IAM), Terraform, GitLab CI/CD
-- **Databases:** PostgreSQL, DynamoDB, MySQL
-- **Architecture:** Microservices, Hexagonal, Serverless, Design Patterns (Repository, Service Layer, Factory, Strategy)
+📍 Ubicación: Buenos Aires, Argentina📧 Contacto: romero-ar@hotmail.com🔗 LinkedIn | GitHub | Portafolio
 
-## 📚 Certifications
-- **AWS Solutions Architect Associate** (In progress - 2024)
-- **Backend Development with Node.js** - Alkemy (2022)
-- **Python Development** - UTN FRBA (2021)
+🛠️ Tecnologías y Herramientas
 
-## 📫 Connect with Me
-- 🌍 Portfolio: [mar-romero.vercel.app](https://mar-romero.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/mar-romero-](https://www.linkedin.com/in/mar-romero-/)
-- 🔗 GitHub: [github.com/mar-romero](https://github.com/mar-romero)
-- 📧 Email: romero-ar@hotmail.com
+Lenguajes: Node.js, TypeScript, Python, JavaScript
+
+Frameworks y Librerías: Next.js, Express, TypeORM, Sequelize, Serverless Framework
+
+Cloud Computing (AWS): Lambda, API Gateway, DynamoDB, RDS, SQS, SNS, Bedrock
+
+Arquitectura de Software: Microservicios, Arquitectura Hexagonal, Serverless, Patrones de Diseño (Repository, Service Layer, Factory, Strategy)
+
+Automatización y DevOps: GitLab CI/CD, Terraform, Web Scraping
+
+Bases de Datos: PostgreSQL, DynamoDB, MySQL
+
+📌 Experiencia Profesional
+
+Backend Developer | IVCISA | Panamá (Ago 2024 - Ene 2025)
+
+Diseño e implementación de soluciones en AWS Bedrock para IA empresarial.
+
+Desarrollo de microservicios serverless con AWS Lambda y API Gateway.
+
+Integración de chatbots avanzados para mejorar procesos internos.
+
+Creación de un sistema de gestión de recursos en AWS optimizando costos y rendimiento.
+
+Implementación de arquitecturas basadas en microservicios y eventos.
+
+Backend Developer | DaCodes - DD360 | México (Ago 2022 - Ago 2024)
+
+Migración de sistemas financieros de PHP a Node.js/TypeScript con AWS Serverless, mejorando escalabilidad y mantenimiento.
+
+Implementación de un motor de cálculo financiero que redujo tiempos de procesamiento de 15 minutos a 30 segundos.
+
+Desarrollo de una plataforma de créditos hipotecarios, integrando APIs externas como Buró de Crédito, DocuSign y Conekta.
+
+Creación de un sistema de votación y firma digital para la aprobación de créditos empresariales.
+
+Optimización de infraestructura con Terraform y GitLab CI/CD.
+
+Backend Developer Freelance | Autónomo (Sep 2021 - Ago 2022)
+
+Creación de sistemas de automatización con Python y Selenium para optimización de tareas repetitivas.
+
+Desarrollo de un sistema de inventario basado en Node.js y PostgreSQL, reduciendo en un 75% el tiempo de gestión de stock.
+
+Implementación de chatbots y web scraping para automatizar procesos de recopilación de datos.
+
+Trabajo directo con clientes en la definición y ejecución de proyectos tecnológicos.
+
+Aplicación de principios SOLID y Arquitectura Hexagonal para mejorar mantenibilidad del código.
+
+🏆 Logros Destacados
+
+✅ Reducción del 70% en tiempos de procesamiento de solicitudes en sistemas financieros.✅ Automatización del 85% de procesos manuales en proyectos empresariales.✅ Implementación de chatbots con IA con un 95% de precisión en respuestas.✅ Optimización de infraestructura AWS, reduciendo costos operativos en un 40%.✅ Creación de soluciones escalables en arquitecturas modernas aplicando mejores prácticas de desarrollo.
+
+📚 Educación y Certificaciones
+
+AWS Solution Architect Associate - En progreso (2024)
+
+Desarrollador Backend Node.js - Alkemy (2022)
+
+Desarrollador Python - UTN FRBA (2021)
+
+📫 Conéctate Conmigo
+
+Si estás interesado en colaborar en proyectos innovadores, discutir sobre arquitectura backend o compartir ideas sobre AWS, automatización y optimización de sistemas, ¡no dudes en contactarme!
+
+🔗 LinkedIn | 📧 romero-ar@hotmail.com
+
+
