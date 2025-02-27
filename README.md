@@ -7,7 +7,7 @@
 Soy un **Desarrollador Backend** con experiencia en **Node.js, TypeScript y Python**. Me especializo en **arquitecturas escalables, microservicios y soluciones serverless en AWS**. Apasionado por la **automatización, optimización de procesos y el desarrollo de software eficiente**, me enfoco en construir sistemas robustos y bien estructurados aplicando principios SOLID y Arquitectura Hexagonal.
 
 📍 **Ubicación:** Buenos Aires, Argentina\
-📧 **Contacto:** [romero-ar@hotmail.com](mailto:romero-ar@hotmail.com)\
+📧 **Contacto:** [romero.marcelo.ar@gmail.com](mailto:romero.marcelo.ar@gmail.com)\
 🔗 **Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/mar-romero-/) | [Portafolio](https://mar-romero.vercel.app/) | [GitHub](https://github.com/mar-romero)
 
 ---
